@@ -30,15 +30,15 @@ python gui.py
 ### Upload an image or scan using the camera
 
 - Click **"Open Image"** to upload a Sudoku puzzle image.
-- Click **"Scan Camera"** to capture an image from the webcam.
+- Click **"Open Camera"** to open your laptop webcam. Press **"c"** to capture an image from the webcam.
+- Click **"Exit"** to exit the program.
 
 ### Edit & Solve
 
 - The program detects and predicts the Sudoku grid.
 - You can manually edit incorrect predictions.
 - Click **"Confirm"** to solve.
-- If unsolvable, a message will be displayed.
-
+![Final result](https://github.com/minhtran0901/SudokuScan2Solve/blob/main/Solved%20puzzle.png)
 ## Model Weights
 
 The pre-trained ResNet-18 model for digit recognition is too large for GitHub. Download it from Google Drive:
