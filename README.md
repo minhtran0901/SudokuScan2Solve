@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ### Run the application
 
 ```sh
-python main.py
+python gui.py
 ```
 
 ### Upload an image or scan using the camera
