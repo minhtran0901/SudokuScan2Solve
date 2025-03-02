@@ -60,13 +60,6 @@ python gui.py
 
 ![Final result](https://github.com/minhtran0901/SudokuScan2Solve/blob/main/Solved%20puzzle.png)
 
-## Model Weights
-
-The pre-trained ResNet-18 model for digit recognition is too large for GitHub. Download it from Google Drive:
-
-[resnet18_trained_parameters.pth](https://drive.google.com/file/d/1j4m1gAvC4tERiuZ_5yCDj-2yTddPiEp-/view?usp=sharing)
-
-Place the file in the project directory before running the program.
 
 ## License
 
