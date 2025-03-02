@@ -29,16 +29,37 @@ python gui.py
 
 ### Upload an image or scan using the camera
 
-- Click **"Open Image"** to upload a Sudoku puzzle image.
-- Click **"Open Camera"** to open your laptop webcam. Press **"c"** to capture an image from the webcam.
 - Click **"Exit"** to exit the program.
+
+
+![Interface](https://github.com/minhtran0901/SudokuScan2Solve/blob/main/Interface.png)
+
+
+- Click **"Open Image"** to upload a Sudoku puzzle image.
+
+
+![Open Image](https://github.com/minhtran0901/SudokuScan2Solve/blob/main/Selecting%20image.png)
+
+
+- Click **"Open Camera"** to open your laptop webcam. Press **"c"** to capture an image from the webcam.
+
+
+![Scanning](https://github.com/minhtran0901/SudokuScan2Solve/blob/main/Scanning.png)
 
 ### Edit & Solve
 
 - The program detects and predicts the Sudoku grid.
 - You can manually edit incorrect predictions.
+
+
+![Editing](https://github.com/minhtran0901/SudokuScan2Solve/blob/main/Verify%20Prediction.png)
+
+
 - Click **"Confirm"** to solve.
+
+
 ![Final result](https://github.com/minhtran0901/SudokuScan2Solve/blob/main/Solved%20puzzle.png)
+
 ## Model Weights
 
 The pre-trained ResNet-18 model for digit recognition is too large for GitHub. Download it from Google Drive:
@@ -56,6 +77,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you want to dive deep into the math you can read my project report (in Vietnamese).
 
 ---
-
-Enjoy solving Sudoku! 
-
